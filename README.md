@@ -2,4 +2,4 @@
 
 **Check out my projects at my website: [siddhp.me](https://siddhp.me)**
 
-<I am currently working on:>
+I am currently working on: an obsidian sync plugin
