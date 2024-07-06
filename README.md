@@ -4,5 +4,4 @@
 
 **I am currently working on:**
 
-- A new personal website (React + Django)
-- A secret application (MERN)
+- A secret application (React Native + Django)
