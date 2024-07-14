@@ -2,6 +2,7 @@
 
 **I am currently working on:**
 - A secret application (React Native + Django)
+- Learning TypeScript
 <br />
 
 **Check out my:**
