@@ -1,8 +1,7 @@
 ## Welcome to my GitHub Profile!
 
 **I am currently working on:**
-- A secret application (React Native + Django)
-- Learning TypeScript
+- Learning C
 <br />
 
 **Check out my:**
