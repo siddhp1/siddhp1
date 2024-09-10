@@ -1,9 +1,5 @@
 ## Welcome to my GitHub Profile!
 
-**I am currently working on:**
-- Learning C
-<br />
-
 **Check out my:**
 <div class='flex; color: black;'>
   <a href='https://siddhp.me' style='text-decoration:none;' target='_blank' rel='noopener noreferrer'>
