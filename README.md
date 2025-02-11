@@ -15,6 +15,6 @@ Here are a few of my favourite projects:
 
 Discover more of my projects [here](https://github.com/siddhp1?tab=repositories&q=&type=source).
 
-Currently, I'm an active member of the [Waterloo Aerial Robotics Group](https://github.com/UWARG), where I develop computer vision models and pathfinding algorithms for autonomous drones. I'm also part of [Waterloop](https://github.com/waterloop), contributing to a telemetry dashboard for Hyperloop prototypes.
+Currently, I'm an active member of the [Waterloo Aerial Robotics Group](https://github.com/UWARG), where I develop computer vision models and pathfinding algorithms for autonomous drones. I'm also part of [Waterloo Reality Labs](https://github.com/uwrealitylabs), contributing to the Universal Text project.
 
 I'm always open to connect with like-minded individuals, explore new opportunities, and learn new things. Feel free to reach out!
